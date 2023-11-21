@@ -1,399 +1,100 @@
-    1  cd $HOME/Downloads
-    2  git clone https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT.git
-    3      cd Hbm-s-Nuclear-Tech-GIT
-    4      ./gradlew build
-    5  :jar
-    6  php -v
-    7  php -version
-    8  php --version
-    9  php --version
-   10  php --version
-   11  composer create-project laravel/laravel Laravel Project
-   12  composer create-project laravel
-   13  [200~composer create-project laravel/laravel example-app~
-   14  composer create-project laravel/laravel example-app
-   15  dir
-   16  cd Laravel_Project
-   17  php artisan ser
-   18  code .
-   19  git clone https://github.com/szyper/zsk_2023/tree/main/3c_gr_2
-   20  git clone https://github.com/szyper/zsk_2023/3c_gr_2.git
-   21  git clone https://github.com/szyper/zsk_2023.git
-   22  aliac c = clear
-   23  allias c = clear
-   24  c
-   25  alias c=clear
-   26  c
-   27  git init
-   28  git init
-   29  git config --global --litst
-   30  git config --global --list
-   31  git config --global user.name = ' '
-   32  git config --global --list
-   33  git config --global user.name = ''
-   34  git config --global user.name = 'HPrzybysz'
-   35  git config --global --list
-   36  git config --global --list
-   37  git config --global user.name "HPrzybysz"
-   38  git config --global --list
-   39  c
-   40  c
-   41  alias c=clear
-   42  c
-   43  git config --global --unset-all user.name
-   44  git config --global --unset-all user.emal
-   45  git config --global --unset-all user.email
-   46  git config --global --list
-   47  git config --global user.name='HPrzybysz"
-   48  git config --global user.name='HPrzybysz'
-   49  git config --global --list
-   50  c
-   51  git config --global --list
-   52  git config --global user.name='HPrzybysz'
-   53  git config --global user.name 'HPrzybysz'
-   54  git config --global --list
-   55  git config --global user.email niewica@gmail.com
-   56  git config --global --list
-   57  c
-   58  alias c=clear
-   59  c
-   60  dir
-   61  cd git_lab
-   62  dir
-   63  vim filr
-   64  vim historia
-   65  echo cos > file
-   66  cat file
-   67  file
-   68  vim file
-   69  cat file
-   70  vim file
-   71  cat file
-   72  cat history
-   73  cat historia
-   74  echo nowy > new
-   75  cat new
-   76  vim new
-   77  cat new
-   78  vim new
-   79  cat new
-   80  ls -l
-   81  ls -l file
-   82  git config --global --edit
-   83  git status
-   84  cd ..
-   85  git status
-   86  git add .
-   87  git add .
-   88  git status
-   89  git commit -m 'First commit'
-   90  git remote add origin https://github.com/HPrzybysz/Lar-Szyp.git
-   91  git remote
-   92  git push origin master
-   93  dir
-   94  cd project_1
-   95  code .
-   96  git clone https://github.com/HPrzybysz/zsk-php.git
-   97  ls
-   98  cd zsk-php
-   99  ls
-  100  cd Project#1
-  101  ls
-  102  php artisan serv
-  103  alias c=clear
-  104  c
-  105  refresh
-  106  php artisan serv
-  107  cd Project#1
-  108  php artisan serv
-  109  php artisan key:generate
-  110  php artisan serv
-  111  php artisan key:generate
-  112  php artisan serv
-  113  cd ..
-  114  git status
-  115  git add .
-  116  git status
-  117  git remote add origin2 https://github.com/HPrzybysz/zsk-php.git
-  118  git remote
-  119  git cnfig --global --edit
-  120  git config --global --edit
-  121  git commit -m 'fixed error 500 issue'
-  122  git push origin2 main
-  123  exit
-  124  clone https://github.com/HPrzybysz/zsk-php.git
-  125  git clone 
-  126  git clon
-  127  git clone https://github.com/HPrzybysz/zsk-php.git
-  128  cd zsk-php
-  129  cd Project#1
-  130  php artisan serv
-  131  php artisan key:generate
-  132  php artisan key:generate
-  133  composer install
-  134  php artisan key:generate
-  135  php artisan serv
-  136  history
-  137  mkdir nauka
-  138  composer install
-  139  composer create-project laravel/laravel Projekt
-  140  php artisan serv
-  141  mkdir vim
-  142  cd vim
-  143  echo Nowy vim > VIM
-  144  cat vim
-  145  vim vim
-  146  cat vim
-  147  vim vim
-  148  cat vim
-  149  vim -l -ls
-  150  ls -l > vim
-  151  history
-  152  ls -l vim
-  153  alias c=clear
-  154  c
-  155  cd ..
-  156  cd Projekt
-  157  php artisan serv
-  158  cd ..
-  159  git init
-  160  git status
-  161  git add .
-  162  git commit -m 'Basic route and redirect commands'
-  163  git add remote origin-Laravel https://github.com/HPrzybysz/LaravelHome.git
-  164  git remote add origin-Laravel https://github.com/HPrzybysz/LaravelHome.git
-  165  git remote
-  166  git push origin-Laravel practice
-  167  git push origin-Laravel main
-  168  git remote remove origin-Laravel
-  169  git remote
-  170  git remote add origin https://github.com/HPrzybysz/LaravelHome.git
-  171  git remote
-  172  git push remote origin practise
-  173  git push origin practise
-  174  git push origin
-  175  git push origin main
-  176  git push origin master
-  177  git push origin master
-  178  git pull master
-  179  git pull origin master
-  180  git push origin master
-  181  git pull origin master
-  182  php artisan route --list
-  183  php artisan route:list
-  184  php artisan route:list --vendor
-  185  php artisan route:list vendor
-  186  php artisan route:list -v
-  187  php artisan route:list --exceptvendor
-  188  php artisan route:list --except-vendor
-  189  php artisan route:list --only-vendor
-  190  quit
-  191  exit
-  192  php artisan serv
-  193  git config --global --list
-  194  git config --global --edit
-  195  history
-  196  ls -a
-  197  ls -la
-  198  ls -u
-  199  history
-  200  history > file
-  201  cat file
-  202  npm run dev
-  203  composer require global laravel/installer
-  204  composer global require laravel/installer
-  205  laravel new Test
-  206  ls
-  207  ls -le
-  208  ls -l
-  209  ls -e
-  210  ls --e
-  211  ls -a
-  212  ls -l
-  213  cd Test
-  214  ls -l
-  215  ls
-  216  php artisan serv
-  217  php artisan serv
-  218  php version
-  219  php --v
-  220  php -v
-  221  php route:list
-  222  php artisan route:list
-  223  php artisan route:list -v
-  224  php artisan route help
-  225  php artisan route -h
-  226  php artisan route:list -h
-  227  php artisan route:list --help
-  228  php artisan route:list --path = password -v
-  229  php artisan route:list --path =password -v
-  230  rm -r
-  231  rm -r ./Test
-  232  php artisan migrate
-  233  npm run dev
-  234  npm run build
-  235  php artisan migrate
-  236  git clone 
-  237  git clone https://github.com/HPrzybysz/zsk-php.git
-  238  git clone https://github.com/HPrzybysz/zsk-php.git
-  239  cd zsk-php
-  240  dir
-  241  cd project_3
-  242  laravel new Cw
-  243  cd CW
-  244  php artisan serv
-  245  npm i
-  246  php artisan make:controller FormController
-  247  php artisan controllers
-  248  php artisan list
-  249  php artisan package:discover --ansi
-  250  php artisan make:controller ArrayController
-  251  php artisan make:controller UserFormController
-  252  php artisan test
-  253  exit
-  254  npm i
-  255  npm dev build
-  256  npm run dev
-  257  npm run dev
-  258  git clonehttps://github.com/HPrzybysz/Test.git
-  259  git clone https://github.com/HPrzybysz/Test.git
-  260  cd test
-  261  dir
-  262  git add .
-  263  git status
-  264  git commit -m 'add form handling and form controllers'
-  265  git oneline
-  266  git log oneline
-  267  git log --oneline
-  268  git push https://github.com/HPrzybysz/Test.git
-  269  git clone https://github.com/HPrzybysz/Testy.git
-  270  cd Testy
-  271  mkdir Pliki
-  272  ls
-  273  vim janusz > file
-  274  vim file
-  275  vim Janusz >> file
-  276  git init
-  277  git add .
-  278  git status
-  279  touch wakacje
-  280  ls
-  281  cat wajacje
-  282  cat wakacje
-  283  vim morze > wakacje
-  284  janusz > wakacje
-  285  morze >> wakacje
-  286  vim
-  287  :morze>>wakacje
-  288  vim morze >> wakacje
-  289  cat wakacje
-  290  vim wakacje
-  291  delete wakacje
-  292  git delete wakacje
-  293  vim wakacje
-  294  cat wakacje
-  295  git status
-  296  git commit -m 'basic structure'
-  297  git add .
-  298  git log
-  299  git status
-  300  git log --oneline
-  301  git commit -m 'addded wakacje'
-  302  git log --oneline
-  303  cd Pliki
-  304  vim file
-  305  cd ..
-  306  git status
-  307  git add .
-  308  git status
-  309  git commit -m 'adddedd fiel'
-  310  git status
-  311  git log --oneline
-  312  git revert cedb43
-  313  git checkout cedbd43
-  314  git log --oneline
-  315  git status
-  316  cd Pliki
-  317  git checkout main
-  318  git status
-  319  git log --oneline
-  320  ls
-  321  echo morze > wakacje
-  322  echo Krystyna >> Imie
-  323  cat Imie
-  324  ls
-  325  git status
-  326  git add .
-  327  git commit =m 'fillleessasa'
-  328  git commit -m 'new file'
-  329  git log --oneline
-  330  echo Jan > Imie
-  331  cat Imie
-  332  echo krystyna >> Imie
-  333  cat Imie
-  334  git checkout c6n5109
-  335  git checkout c6b5109
-  336  cat Imie
-  337  git log --oneline
-  338  git status
-  339  git add .
-  340  git log --oneline
-  341  git commit -m 'edit Imie'
-  342  git log --oneline
-  343  git checkout c6b5109
-  344  cat Imie
-  345  git checkout main
-  346  git checkout c6b5109
-  347  git checkout main
-  348  git log --oneline
-  349  git revert 7b52531
-  350  cat Imie
-  351  cat Wakacje
-  352  git revert --abort
-  353  git status
-  354  git log --oneline
-  355  git revert cedb43
-  356  git revert cedbd43
-  357  ls
-  358  git revert cedbd43
-  359  git status
-  360  git add .
-  361  git status
-  362  git revert cedbd43
-  363  git revert --continue
-  364  git reset cedbd43 soft
-  365  git status
-  366  echo test > plik
-  367  cat plik
-  368  git add *
-  369  git commit -m 'dodanie pliku o nazwie plik'
-  370  git log --oneline
-  371  git reset --hard c6b5109
-  372  git log --oneline
-  373  history > history2312
-  374  cat history
-  375  cat history2312
-  376  git log --oneline
-  377  git dd *
-  378  git add *
-  379  git commit -m 'added history'
-  380  git log --oneline
-  381  git revert c6b5109
-  382  git status
-  383  ls
-  384  mkdir filee
-  385  cd fileee
-  386  cd filee
-  387  touch file
-  388  echo plik >> file
-  389  cat file
-  390  cd..
-  391  cd ..
-  392  git add .
-  393  git commit -m 'adad'
-  394  git loge --onelie
-  395  git loge --oneline
-  396  git log --oneline
-  397  git revert 7f20b3a
-  398  git log --oneline
-  399  history > historia
+  468  echo history | -100 > hisotria
+  469  echo history | - 100 > hisotria
+  470  history | tail -100 > historia
+  471  cat historia
+  472  git status
+  473  rm -r historia
+  474  rm -r historia
+  475  rm -d histria
+  476  rm -d hisotria
+  477  history | tail -100 > historia
+  478  rm -d historia
+  479  history | tail -100 > historia
+  480  git status
+  481  git add .
+  482  git commit -m 'historia'
+  483  git log --oneline
+  484  touch hist
+  485  git add .
+  486  git commit -m 'new hist'
+  487  git log --onelie
+  488  git log --oneline
+  489  rm -r hist
+  490  git status
+  491  git add .
+  492  git commit -m 'deleted hist'
+  493  git log --oneline
+  494  git log --oneline
+  495  git checkout 13c1887
+  496  git log --oneline
+  497  git checkout master
+  498  git log --oneline
+  499  git reset --soft ee92037
+  500  git log --oneline
+  501  git revert 13c1887
+  502  git revert 3edaa7c
+  503  git log --oneline
+  504  git status
+  505  git checkout ee92037
+  506  git log --oneline
+  507  git status
+  508  git add .
+  509  git status
+  510  touch wakacje
+  511  echo lato >> wakacje
+  512  cat wakacje
+  513  git add .
+  514  git commit -m 'wakacje
+'
+  515  git status
+  516  git log --oneline
+  517  git reset --soft 789d075
+  518  git log --oneline
+  519  git status
+  520  git checkout main
+  521  git status
+  522  git log --oneline
+  523  git stash 0982d2d
+  524  git stash 
+  525  git stash
+  526  git status
+  527  git log --oneline
+  528  git revert e4407e2
+  529  git status
+  530  git stash
+  531  git log --oneline
+  532  git reset --soft 49261c2
+  533  git status
+  534  git stash
+  535  git log --oneline
+  536  git revert e4407e2
+  537  git log --oneline
+  538  git reset --soft 49261c2
+  539  git log --oneline
+  540  git stash
+  541  git stash --list
+  542  git stash list
+  543  git status
+  544  git stash pop
+  545  git log --oneline
+  546  git checkout main
+  547  git checkout cedbd43
+  548  git log --oneline
+  549  git chckout main
+  550  git checkout main
+  551  git log --oneline
+  552  git status
+  553  git push
+  554  git push https://github.com/HPrzybysz/Testy.git
+  555  git push --set-upstream https://github.com/HPrzybysz/Testy.git main
+  556  cat wakacje
+  557  rm -r histria
+  558  rm -r historia
+  559  rm -r wakacje
+  560  mkdir new
+  561  cd new
+  562  echo cos > fin
+  563  echo tak >> yes
+  564  ls -la
+  565  cd ..
+  566  history | tail -100 > historia
